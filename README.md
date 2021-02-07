@@ -3,4 +3,4 @@ Repositorio en el que se registra la documentación del proyecto web de IDW.
 
 **Planteamiento del problema**
 
-Mediante este README se documentará el concepto y planeación del proyecto de la materia IDW, en este se incluirá: Tema, planteamiento del problema, justificación, estado del arte, objetivo general, objetivos específicos, modelo de negocio, mockups de la aplicación, descripción de esta y bibliografía.
+Teniendo en cuenta testimonios de docentes y terceros, la falta de contenido respecto al sistema de partículas en Unity y la creación de VFX con este se da principalmente en como iniciar, es decir el contenido básico, y el contenido avanzado y como ir más allá con este sistema. Esto nos muestra entonces que hay una buena cantidad de contenido de dificultad media pero pocos recursos que expliquen lo más básico del tema y lo más avanzado, es decir, efectos ya de categoría profesional.
