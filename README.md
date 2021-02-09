@@ -1,10 +1,3 @@
-# Anteproyecto_IDW
-Repositorio en el que se registra la documentación del proyecto web de IDW.
-
-
-**Realizado por: Daniel Muñoz Pérez**
-
-
 **Mockups**
 
 ![01_MainScreen](https://user-images.githubusercontent.com/65467881/107408990-aabea380-6ad9-11eb-9e1a-e4376fb58f9b.png)
