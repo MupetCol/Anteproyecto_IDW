@@ -7,9 +7,9 @@ Repositorio en el que se registra la documentación del proyecto web de IDW.
 
 **Mockups**
 
-![01_MainPage](https://user-images.githubusercontent.com/65467881/107408100-7eeeee00-6ad8-11eb-8b2f-23a64773813e.png)
-![02 1_AboutUs](https://user-images.githubusercontent.com/65467881/107408106-80201b00-6ad8-11eb-9786-33c8e8a053f8.png)
-![02 2_CategoryOpened](https://user-images.githubusercontent.com/65467881/107408112-81514800-6ad8-11eb-9ef3-c3bb8e9e5eb2.png)
-![02 3_SpecifEffect](https://user-images.githubusercontent.com/65467881/107408114-82827500-6ad8-11eb-92fd-61a0ba3d9929.png)
-![03_Categories](https://user-images.githubusercontent.com/65467881/107408117-83b3a200-6ad8-11eb-804d-a508c8b5fe2a.png)
-![04_Tips Tricks](https://user-images.githubusercontent.com/65467881/107408121-84e4cf00-6ad8-11eb-8036-42cfbf895fe5.png)
+![01_MainScreen](https://user-images.githubusercontent.com/65467881/107408990-aabea380-6ad9-11eb-9e1a-e4376fb58f9b.png)
+![02_AboutUs](https://user-images.githubusercontent.com/65467881/107408992-abefd080-6ad9-11eb-955a-fa630e57b913.png)
+![03 1_Categories](https://user-images.githubusercontent.com/65467881/107408998-ad20fd80-6ad9-11eb-850c-f97393ea8a96.png)
+![03 2_SpecificCategory](https://user-images.githubusercontent.com/65467881/107409003-adb99400-6ad9-11eb-8d3d-ee0cbae63c4d.png)
+![03 3_SpecificEffect](https://user-images.githubusercontent.com/65467881/107409005-ae522a80-6ad9-11eb-936b-0bd69dd8a1a6.png)
+![04_Tips Tricks](https://user-images.githubusercontent.com/65467881/107409007-aeeac100-6ad9-11eb-911f-6b4e1816f157.png)
