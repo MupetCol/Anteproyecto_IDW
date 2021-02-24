@@ -23,6 +23,10 @@ Teniendo en cuenta testimonios de docentes y terceros, la falta de contenido **e
 
 Viendo la poca existencia del contenido en español sobre el sistema de partículas de Unity y la creación de VFX con este, este proyecto se realiza con la razón de tener un sitio web que provea una variedad amplia de VFX hechos en Unity, como crearlos desde cero, y consejos y trucos sobre como manejar este sistema y la creación de VFX en general, todo en un mismo lugar.
 
+**Estado del arte**
+
+Una rigurosa busqueda de aplicaciones o ideas similares a este proyecto nos deja ver la inexistencia de estas. Si incluso en una plataforma tan grande como Youtube no es demasiado el contendio en español que se encuentra respecto al sistema de partículas de unity, no es de extrañarse que no existan sitios webs como el que se planea construir. Cabe resaltar que si hay una gran variedad de "galerías" de VFX de todo tipo, pero estos son portafolios o sitios de esta índole, es decir, no tienen el objetivo de enseñar sino solo mostrar los productos elaborados por el creador de dicha págica/portafolio, mientras que nuestro proyecto se basa en que será un sitio gratuito, con el objetivo de enseñanzar y en español.
+
 **Mockups**
 
 ![01_MainScreen](https://user-images.githubusercontent.com/65467881/107408990-aabea380-6ad9-11eb-9e1a-e4376fb58f9b.png)
