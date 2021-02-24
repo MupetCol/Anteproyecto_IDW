@@ -19,6 +19,10 @@ Si se tiene conocimiento de una basta cantidad de herramientas y temas relaciona
 Teniendo en cuenta testimonios de docentes y terceros, la falta de contenido **en español** respecto al sistema de partículas en Unity y la creación de VFX con este se da principalmente en como iniciar, es decir el contenido básico, y el contenido avanzado y como ir más allá con este sistema. Esto nos muestra entonces que hay una buena cantidad de contenido de dificultad media pero pocos recursos que expliquen lo más básico del tema y lo más avanzado, es decir, efectos ya de categoría profesional.
 ![ArbolProblema](https://user-images.githubusercontent.com/65467881/107407637-e7899b00-6ad7-11eb-9449-73dccfb199e8.png)
 
+**Justificación**
+
+Viendo la poca existencia del contenido en español sobre el sistema de partículas de Unity y la creación de VFX con este, este proyecto se realiza con la razón de tener un sitio web que provea una variedad amplia de VFX hechos en Unity, como crearlos desde cero, y consejos y trucos sobre como manejar este sistema y la creación de VFX en general, todo en un mismo lugar.
+
 **Mockups**
 
 ![01_MainScreen](https://user-images.githubusercontent.com/65467881/107408990-aabea380-6ad9-11eb-9e1a-e4376fb58f9b.png)
