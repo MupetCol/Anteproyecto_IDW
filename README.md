@@ -52,3 +52,7 @@ Generar inicialmente el contenido del sitio totalmente en español e implementar
 ![03 3_SpecificEffect](https://user-images.githubusercontent.com/65467881/107409005-ae522a80-6ad9-11eb-936b-0bd69dd8a1a6.png)
 ![04_Tips Tricks](https://user-images.githubusercontent.com/65467881/107409007-aeeac100-6ad9-11eb-911f-6b4e1816f157.png)
 
+**Descripción de la aplicación**
+
+El sitio guardará información simple como número de visitas a pantallas específicas e información de este estilo según se vea necesario. Además estará conectado con Patreon y Paypal para las donaciones que los usuarios quieran realizar.
+
