@@ -1,3 +1,4 @@
-**Plan de negocio**
+**Descripción de la aplicación**
 
-![Lean canvas](https://user-images.githubusercontent.com/65467881/108927745-e2b40380-760e-11eb-88bb-dfcac1aa0528.png)
+El sitio guardará información simple como número de visitas a pantallas específicas e información de este estilo según se vea necesario. Además estará conectado con Patreon y Paypal para las donaciones que los usuarios quieran realizar.
+
