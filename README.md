@@ -39,6 +39,10 @@ Lograr ser reconocido como un sitio web útil y popular en su tema para así emp
 
 Generar inicialmente el contenido del sitio totalmente en español e implementar un cambio de idioma opcional al inglés, esto para un mayor reconocimiento y alcance de la página a futuro sin perder el enfoque hispano inicial en el proyecto.
 
+**Plan de negocio**
+
+![Lean canvas](https://user-images.githubusercontent.com/65467881/108927745-e2b40380-760e-11eb-88bb-dfcac1aa0528.png)
+
 **Mockups**
 
 ![01_MainScreen](https://user-images.githubusercontent.com/65467881/107408990-aabea380-6ad9-11eb-9e1a-e4376fb58f9b.png)
